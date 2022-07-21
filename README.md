@@ -11,9 +11,7 @@ Para executar o arquivo é necessário instalar as seguintes bibliotecas:
 
 ### BeautifulSoup
 
-> A biblioteca BeautifulSoup serve para extrair informações de arquivos HTML e XML, nesse caso estou buscando a origem das mensagens em sites, então estou extraindo de > arquivo HTML.
-
-> Para instalar, execute no CMD: 
+> A biblioteca BeautifulSoup serve para extrair informações de arquivos HTML e XML, nesse caso estou buscando a origem das mensagens em sites, então estou extraindo de um arquivo HTML. Para instalar, execute no CMD: 
 ```
 pip install beautifulsoup4
 ```
