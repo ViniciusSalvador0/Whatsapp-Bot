@@ -2,7 +2,7 @@
 > Bot de Spam de mensagem utilizando Python 3
 
 ## Como executar?
-Na linha 17 do código, basta colocar o link fonte da mensagem, e colocar a tag de texto do HTML, ao inspecionar o site, é possivel verificar se está usando p, span, hr, etc... Ao executar o arquivo, terá um intervalo de 20 segundos até começar o flood.
+Na linha 16 do código, basta colocar o link fonte da mensagem, e colocar a tag de texto do HTML, ao inspecionar o site, é possivel verificar se está usando p, span, hr, etc... Ao executar o arquivo, terá um intervalo de 20 segundos até começar o flood.
 <br>
 
 Para executar o arquivo é necessário instalar as seguintes bibliotecas:
